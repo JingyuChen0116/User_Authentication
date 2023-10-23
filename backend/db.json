@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "username": "Janna",
+      "password": "$2b$07$yABQdi2.29x17panOiWsGe7EyQK8lB65zqlzIXuNQYde4ecQ041jq",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ikphbm5hIiwicGFzc3dvcmQiOiIkMmIkMDckeUFCUWRpMi4yOXgxN3Bhbk9pV3NHZTdFeVFLOGxCNjV6cWx6SVh1TlFZZGU0ZWNRMDQxanEiLCJkYXRlIjoiMjAyMy0xMC0yM1QwNzoxNTowMy43NjRaIiwiaWF0IjoxNjk4MDQ1MzAzfQ.FWGDneQG2HkaBgJtCTK52PaMAJzh11QfZHvuYh22RBw",
+      "id": 1
+    },
+    {
+      "username": "John",
+      "password": "$2b$07$CSaNf7eBEeFyXw7NA/O9DelIbpjuYE59oORERPacVGvu0bzqSbr6W",
+      "id": 2
+    }
+  ],
+  "bcrypt": [
+    {
+      "id": 1,
+      "saltRound": 7
+    },
+    {
+      "id": 2,
+      "saltRound": 10
+    }
+  ]
+}
